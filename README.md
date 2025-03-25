@@ -50,6 +50,4 @@
 ---
 
 ## 📬 Contact
-- Email: [your@email.com]
-- Twitter: [@TwitterHandle]
 - 🔧 Maintained by: **Pushpak**
