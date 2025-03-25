@@ -43,7 +43,7 @@
 <div align="center">
 
 🛡️ **Proprietary Software**  
-© 2024 **Pushpak**. All Rights Reserved.  
+© 2025 **Pushpak**. All Rights Reserved.  
 • Modification prohibited •  
 • Redistribution prohibited •  
 
