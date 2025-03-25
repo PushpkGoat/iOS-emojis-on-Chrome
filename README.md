@@ -1,4 +1,4 @@
-# 🍏 iOS Emojis for Browsers  
+#  iOS Emojis for Browsers  
 
 **Professional Apple-style emojis for Chrome/Firefox**  
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - **True-to-iOS** emoji designs (v17.4)
 - **Instant rendering** on all websites
 - **Lightweight** (under 100KB memory)
@@ -20,13 +20,15 @@
 
 ## 🛠 Installation Guide
 1. **Download** this repository
-2. Navigate to:
+
+2. Extract it.
+3. Navigate to:
    ```
    chrome://extensions  [Chrome]
    about:addons        [Firefox]
    ```
-3. Enable Developer mode (toggle switch)
-4. Click **Load unpacked** and select the extension folder
+4. Enable Developer mode (toggle switch)
+5. Click **Load unpacked** and select the extension folder
 
 ---
 
@@ -37,7 +39,7 @@
 
 ---
 
-## 📜 License
+##  License
 <div align="center">
 
 🛡️ **Proprietary Software**  
@@ -49,5 +51,5 @@
 
 ---
 
-## 📬 Contact
-- 🔧 Maintained by: **Pushpak**
+##  Contact
+-  Maintained by: **Pushpak**
