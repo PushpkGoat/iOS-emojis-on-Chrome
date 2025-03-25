@@ -1,29 +1,55 @@
-#  iOS Emojis for Browsers  
+# 🍏 iOS Emojis for Browsers  
 
-**Professional-grade Apple emojis for Chrome/Firefox**  
+**Professional Apple-style emojis for Chrome/Firefox**  
 
 <div align="center">
-  <img src="image.png" width="400" alt="Emoipedia reference">
+  <img src="image.png" width="400" alt="Emoji Preview">
   
-  *Inspired by premium emoji experiences like Emoipedia*  
+  *Inspired by premium emoji platforms*  
 </div>
 
-##  Features
-- **Authentic iOS 17** emoji designs
-- **Seamless integration** - works on all sites
-- **Lightweight** (<100KB memory)
-- **Privacy-focused** - no tracking
+---
 
-## 🛠 Developer Installation
+## ✨ Key Features
+- **True-to-iOS** emoji designs (v17.4)
+- **Instant rendering** on all websites
+- **Lightweight** (under 100KB memory)
+- **No telemetry** or data collection
 
-1. Download this repo
-2. Open Chrome/Firefox → `chrome://extensions`
-3. Enable "Developer mode" 
-4. Click "Load unpacked" → select extension folder
+---
 
+## 🛠 Installation Guide
+1. **Download** this repository
+2. Navigate to:
+   ```
+   chrome://extensions  [Chrome]
+   about:addons        [Firefox]
+   ```
+3. Enable Developer mode (toggle switch)
+4. Click **Load unpacked** and select the extension folder
+
+---
+
+## ⚠️ Important Notes
+- Requires browser refresh on existing tabs
+- May conflict with other emoji extensions
+- Not affiliated with Apple Inc.
+
+---
+
+## 📜 License
 <div align="center">
-Proprietary Software
-© 2024 [Your Name]. All rights reserved.
-Redistribution prohibited without permission.
+
+🛡️ **Proprietary Software**  
+© 2024 **Pushpak**. All Rights Reserved.  
+• Modification prohibited •  
+• Redistribution prohibited •  
 
 </div>
+
+---
+
+## 📬 Contact
+- Email: [your@email.com]
+- Twitter: [@TwitterHandle]
+- 🔧 Maintained by: **Pushpak**
